@@ -1,0 +1,22 @@
+{
+  "tests": [
+    {
+      "id": "two_sum",
+      "promptPath": "two_sum/two_sum.md",
+      "outputPath": "outputs/two_sum/two_sum.py",
+      "timeout": 120000
+    },
+    {
+      "id": "same_tree",
+      "promptPath": "same_tree/same_tree.md",
+      "outputPath": "outputs/same_tree/same_tree.py",
+      "timeout": 120000
+    },
+    {
+      "id": "subsets",
+      "promptPath": "subsets/subsets.md",
+      "outputPath": "outputs/subsets/subsets.py",
+      "timeout": 120000
+    }
+  ]
+}
